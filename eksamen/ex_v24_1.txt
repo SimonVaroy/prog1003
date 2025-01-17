@@ -1,0 +1,24 @@
+/**
+ *   Løsning til eksamen i OOProg (i C++), mai 2024, oppgave 1.
+ *
+ *   @file     EX_V24_1.TXT
+ *   @author   Frode Haug, NTNU
+ */
+
+
+
+A)  Svar:   Odd, Odda hoyde: 183.5    Are, Aremark hoyde: 179.5
+            Odd, Otta hoyde: 183.5
+            Joda ...
+            183.5
+            Are Idar, Aremarka hoyde: 183.5
+
+
+
+
+
+B)  Svar:   SS BB TT PP
+            TT AA PP EE FF GG SS KK BB
+            GG GG
+            TT SS PP KK
+            GG FF EE BB AA GG FF EE BB AA

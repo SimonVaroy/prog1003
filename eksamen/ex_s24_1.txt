@@ -1,0 +1,24 @@
+/**
+ *   Løsning til eksamen i OOProg (i C++), august 2024, oppgave 1.
+ *
+ *   @file     EX_S24_1.TXT
+ *   @author   Frode Haug, NTNU
+ */
+
+
+
+A)  Svar:   Brokke 1708 Hovden T Revesand E
+            Brokke hytte 1708
+            denne
+            9
+            HovdenATATATAT T 0
+
+
+
+
+
+B)  Svar:   0:AA  3:LL  6:NN  9:SS  12:RR  15:EE  18:AA
+            0:AA  6:NN  9:SS  12:RR  15:EE  18:AA
+            6 0 
+            18
+            6 9 12 15
