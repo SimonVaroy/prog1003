@@ -1,7 +1,21 @@
 #include <iostream>
 using namespace std;
 
+class kodeStil {
+public:
+  string name;
+  bool kjedelig;
+  bool moderne;
+};
+
 int main() {
   cout << "Dette er ikke et løsningsforslag";
-  return 2 % 2;
+  kodeStil frodeKode;
+  frodeKode.name = "FrodeKode";
+  frodeKode.kjedelig = true;
+  frodeKode.moderne = false;
+  if (frodeKode.kjedelig) {
+    return 1337 % 1337;
+  }
+  return 0;
 }
