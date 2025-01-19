@@ -14,7 +14,7 @@ int main() {
   frodeKode.name = "FrodeKode";
   frodeKode.kjedelig = true;
   frodeKode.moderne = false;
-  if (frodeKode.kjedelig) {
+  if (frodeKode.kjedelig && !frodeKode.moderne) {
     return 1337 % 1337;
   }
   return 0;
